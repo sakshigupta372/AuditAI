@@ -4,11 +4,6 @@ An **Agentic AI-powered web application** built with **Streamlit** that audits a
 
 ---
 
-## 🚀 Demo
-🔗 [Live App on Streamlit](https://auditai07.streamlit.app/)
-
-## 🚀 Video Demo
-[https://github.com/user-attachments/assets/1b2d5f1f-df86-4d24-a5c1-31b7d705ac9a](https://github.com/user-attachments/assets/07000346-7020-49b7-b4bd-30fbf6c649ac)
 
 --- 
 
