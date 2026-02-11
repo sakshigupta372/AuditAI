@@ -2,10 +2,6 @@
 
 An **Agentic AI-powered web application** built with **Streamlit** that audits any website and provides **SEO, performance, accessibility, and security insights**, along with **AI-generated fixes and optimized HTML**.
 
----
-
-
---- 
 
 ## 📌 Features
 
@@ -86,15 +82,9 @@ An **Agentic AI-powered web application** built with **Streamlit** that audits a
 
 ## 👨‍💻 Author
 **Sakshi Gupta**  
+ 
 
----
-
-## ⚠️ Disclaimer
-This project is for **educational purposes only** and should **NOT** be used as a substitute for professional medical diagnosis.  
-
---- 
-
-### 1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/mirzayasirabdullahbaig07/AuditAI.git
