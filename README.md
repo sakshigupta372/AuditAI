@@ -104,13 +104,6 @@ An **Agentic AI-powered web application** built with **Streamlit** that audits a
 
 ---
 
-## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
-
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
-
 ---
 
 ## ⚠️ Disclaimer

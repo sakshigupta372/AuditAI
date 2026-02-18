@@ -310,11 +310,7 @@ with gr.Blocks(title="AuditAI - Agentic Website Auditor", theme=gr.themes.Soft()
     
     gr.Markdown("""
     ---
-    ### 👨‍💻 Built by Mirza Yasir Abdullah Baig
-    **Connect:** [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/) | 
-    [GitHub](https://github.com/mirzayasirabdullahbaig07) | 
-    [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)
-    
+    ### 👨‍💻 Built by Sakshi Gupta 
     **Features:** SEO Analysis • Performance Metrics • Accessibility Check • Broken Link Detection • 
     Mobile Responsiveness • AI-Powered Insights • PDF Reports • Historical Tracking
     """)
