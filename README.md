@@ -1,3 +1,9 @@
+---
+title: Audit_AI
+app_file: app_gradio.py
+sdk: gradio
+sdk_version: 5.47.2
+---
 # 🧠 AuditAI — AI Website Auditor
 
 An **Agentic AI-powered web application** built with **Gradio** that audits any website and provides **SEO, performance, accessibility, and security insights**, along with **AI-generated fixes and optimized HTML**.
