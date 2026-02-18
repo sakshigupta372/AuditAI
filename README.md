@@ -84,8 +84,3 @@ An **Agentic AI-powered web application** built with **Streamlit** that audits a
 **Sakshi Gupta**  
  
 
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/mirzayasirabdullahbaig07/AuditAI.git
-cd AuditAI
