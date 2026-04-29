@@ -316,4 +316,11 @@ with gr.Blocks(title="AuditAI - Agentic Website Auditor", theme=gr.themes.Soft()
     """)
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    import os
+    # For Render deployment - use environment port if available
+    port = int(os.environ.get("PORT", 7860))
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=port,
+        share=False  # Disable share on production
+    )
